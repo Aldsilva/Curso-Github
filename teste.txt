@@ -1,2 +1,2 @@
 Arquivo para teste de versionamento do Git e Github.
-Autor: Alexsandro Silva
+Autor: Alexsandro Lázaro da Silva
